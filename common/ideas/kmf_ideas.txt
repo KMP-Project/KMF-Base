@@ -1,0 +1,36 @@
+ideas = {
+	country = {
+
+		thinktank = {
+			allowed = {
+				always = yes
+			}
+			picture = generic_thinking
+
+			on_remove = {
+				add_research_slot = -1
+			}
+
+			on_add = {
+				add_research_slot = 1
+			}
+
+			rule = {
+				can_create_factions = yes
+			}
+
+			cancel = {
+				is_ai = yes
+			}
+			
+			modifier = {
+				research_speed_factor = 0.25
+				political_power_factor = 0.25
+				training_time_factor = -0.3
+				new_operative_slot_bonus = 1
+ 			    operative_slot = 1
+
+			}
+		}
+	}
+}

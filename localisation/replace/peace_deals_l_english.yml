@@ -1,0 +1,82 @@
+﻿l_english:
+  # Countries Cosmetic
+  COUNTRY_subject:0 "$OVERLORDADJ$ $NONIDEOLOGY$"
+  COUNTRY_subject_DEF:0 "the $OVERLORDADJ$ $NONIDEOLOGY$"
+  COUNTRY_subject_ADJ:0 "$OVERLORDADJ$ $NONIDEOLOGYADJ$"
+  
+  # Ideas
+  war_reparations:0 "戦争賠償"
+  war_reparations_desc:0 "この国は現在、戦争賠償を[?war_reps_to.GetNameDef]に支払っている。"
+  conditional_surrender:0 "条件付き降伏"
+  
+  # Decisions
+  pd_pay_war_reparations:0 "[From.GetNameDef]に戦争賠償金を支払う。"
+  
+  # Diplomatic actions
+  OFFER_PEACE_DEAL_TITLE:0 "部分講和"  
+  OFFER_PEACE_DEAL_ACTION_DESC:0 "部分講和を持ちかける。戦績に応じた提案をすることが可能だ。"
+  
+  # Send peace offer gui
+  PD_TAKE_TAB:0 "要求をする"
+  PD_GIVE_TAB:0 "提案をする"
+  PD_PUPPET:0 "州を傀儡化する"
+  PD_DEMILITARIZE:0 "非武装化"
+  PD_LIBERATE:0 "解放/返還"
+  TOTAL_COST:0 "総コスト: [?Root.pd_total_cost|Y0] £victory_points"
+  
+  # Recieve peace offer gui
+  PD_OFFER_PEACE_DEAL_RECEIVE:0 "§Y[Root.GetName]§! は §Y[This.GetName]§! に以下の部分講和案を提示した:"
+  PD_STATE_LIST_ENTRY:0 "§Y[This.GetName]§!"
+  
+  # Scripted loc
+ 
+  pd_description_root_takes:0 "国に部分講和を持ちかける。我々の戦争スコアの範囲内の提案のみ送信可能 (現在の戦争スコア: [?Root.vp@PREV|Y0] £victory_points )"
+  pd_description_root_gives:0 "国に条件付き降伏を申し出る。この降伏によって[Root.GetName]が滅亡することはありません"
+  
+  pd_take_state:0 "州を取得する"
+  pd_give_state:0 "州を与える"  
+  
+  pd_war_reperations_root_gets:0 "戦争賠償 [?Root.pd_wr_cost|Y0] £victory_points"
+  pd_war_reperations_root_pays:0 "戦争賠償 §G-§![?Root.pd_wr_cost|G0] £victory_points"
+  
+  pd_disarm_this:0 "武装解除 [?Root.pd_disarm_cost|Y0] £victory_points"
+  pd_disarm_root:0 "武装解除 §G-§![?Root.pd_disarm_cost|G0] £victory_points"
+  
+  pd_state_cost_value:0 "[This.GetName] [This.Owner.GetFlag] [?pts|Y0] £victory_points"
+  pd_state_refund_value:0 "[This.GetName] [This.Owner.GetFlag] [?pts|G0] £victory_points"
+
+  pd_ai_will_accept_yes:0 "§Y相手は受諾するでしょう§!"
+  pd_ai_will_accept_no:0 "§Y相手は拒否するでしょう§!"
+  
+  pd_recieve_take_good:0 "§Y[This.GetName]§! §Gは以下の州を獲得する:§!"
+  pd_recieve_take_bad:0 "§Y[Root.GetName]§! §Rは以下の州を獲得する:§!"
+  
+  pd_recieve_puppet_good:0 "§Y[This.GetName]§! §Gは以下の州に傀儡政権を樹立する:§!"
+  pd_recieve_puppet_bad:0 "§Y[Root.GetName]§! §Rは以下の州に傀儡政権を樹立する:§!"
+  
+  pd_recieve_demilitarize_good:0 "§Y[Root.GetName]§! §Gは以下の州を非武装化する:§!"
+  pd_recieve_demilitarize_bad:0 "§Y[This.GetName]§! §Rは以下の州を非武装化する:§!"
+  
+  pd_recieve_liberate_good:0 "§Y[Root.GetName]§! §Gは以下の州を返還・解放する:§!"
+  pd_recieve_liberate_bad:0 "§Y[This.GetName]§! §Rは以下の州を返還・解放する:§!"
+  
+  pd_war_reperations_good:0 "§Y[Root.GetName]§! §Gは§! §Y[This.GetName]§!に賠償を支払う"
+  pd_war_reperations_bad:0 "§Y[This.GetName]§! §Rは§! §Y[Root.GetName]§!に賠償を支払う"
+  
+  pd_disarm_good:0 "§Y[Root.GetName]§! §Gは非武装化される§!"
+  pd_disarm_bad:0 "§Y[This.GetName]§! §Rは我々を武装解除する§!"
+  
+  # Other
+  pd_waiting_response:0 "回答待ち"
+  
+  # AI condition names
+  base_reluctance:0 "基本抵抗値"
+  close_to_surrender:0 "降伏への傾倒" 
+  war_support:0 "戦争協力度" 
+  stability:0 "安定度"
+  relative_war_score:0 "相対的な戦績"
+  strength_ratio:0 "戦力比"
+  is_major:0 "主要国"
+  in_faction:0 "陣営に加盟"
+  proposal_cost:0 "提案コスト"
+  geopolitical_situation:0 "地政学的状況"

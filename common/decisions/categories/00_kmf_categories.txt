@@ -1,0 +1,4 @@
+Radical_decisions = {
+	icon = generic_economy
+	priority = 100
+}

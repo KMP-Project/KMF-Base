@@ -1,0 +1,73 @@
+scripted_diplomatic_actions = {
+
+	RTJFP = {
+	
+		allowed = {
+			ROOT = {
+				AND = {
+					is_in_faction = no
+					is_faction_leader = no
+				}
+			}
+		}
+		visible = {
+			ROOT = {
+				is_ai = no
+				is_in_faction = no
+				is_faction_leader = no
+			}
+		}
+		selectable = {
+			# より良いツールチップのためにこれを行う
+			if = {
+				limit = {
+					NOT = {
+						AND = {
+							FROM = { is_faction_leader = yes }
+							ROOT = {
+								AND = {
+									is_in_faction = no
+									is_faction_leader = no
+									is_subject = no
+									NOT = { has_war_with = FROM }
+									OR = {
+										NOT = { has_government = democratic }
+										threat > 99
+									}
+								}
+							}
+						}
+					}
+				}
+				custom_trigger_tooltip = {
+					tooltip = RTJFP_TOOLTIP
+					always = no
+				}
+			}
+			else = {
+				custom_trigger_tooltip = {
+					tooltip = RTJFP_TOOLTIP_G
+					always = yes
+				}
+			}
+		}
+
+		cost = 50
+		command_power = 50
+
+		show_acceptance_on_action_button = no
+
+		icon = 8
+
+		complete_effect = {
+			PREV = { add_to_faction = ROOT }
+
+		}
+
+		ai_acceptance = {
+			buttion = {
+				base = -10
+			}
+		}
+	}
+}

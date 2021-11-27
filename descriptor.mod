@@ -6,5 +6,5 @@ tags={
 	"Utilities"
 }
 name="Korobka's Multiplayer Fix"
-supported_version="1.10.8"
+supported_version="1.11.*"
 remote_file_id="2469606972"

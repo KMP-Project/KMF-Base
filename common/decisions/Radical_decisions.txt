@@ -1,0 +1,42 @@
+Radical_decisions = {
+
+	thinktank = {
+
+		icon = generic_research
+		available = {
+			NOT = { has_idea = thinktank }
+		}
+		fire_only_once = no
+
+		cost = 0
+		ai_will_do = {
+			factor = 0
+		}
+
+		visible = {
+            NOT = { has_idea = thinktank }
+		}
+		complete_effect = {
+			country_event = { id = researchslots.1 }
+		}
+	}
+
+	anti_thinktank = {
+		icon = generic_research
+		visible = {
+			is_ai = yes
+		}
+		available = {
+			has_idea = thinktank
+		}
+
+		cost = 0
+		ai_will_do = {
+			factor = 100
+		}
+		complete_effect = {
+			remove_ideas = thinktank
+		}
+	}
+
+}
