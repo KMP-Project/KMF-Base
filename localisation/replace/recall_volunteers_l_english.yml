@@ -1,6 +1,0 @@
-﻿l_english:
- RECALL_VOLUNTEERS_TITLE:0 "義勇軍の撤兵"
- RECALL_VOLUNTEERS_ACTION_DESC:0 "我々はほかの国に派遣した義勇軍を撤兵することができる。"
- RECALL_VOLUNTEERS_TOOLTIP:0 "§Y[This.GetNameWithFlag]§! §Rに義勇軍を送っている必要があります！§!"
- RECALL_VOLUNTEERS_TOOLTIP_G:0 "§Y[This.GetNameWithFlag]§! に義勇軍を送っている必要があります！"
- condition:0 "AIはこれを必ず了承します"
