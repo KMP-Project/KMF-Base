@@ -1,0 +1,4 @@
+--将軍・元帥のキャップ10倍
+NDefines.NMilitary.CORPS_COMMANDER_DIVISIONS_CAP = 240
+NDefines.NMilitary.FIELD_MARSHAL_DIVISIONS_CAP = 0
+NDefines.NMilitary.FIELD_MARSHAL_ARMIES_CAP = 50
