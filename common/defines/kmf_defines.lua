@@ -148,3 +148,5 @@ NDefines.NProduction.ANNEX_CONVOYS_RATIO = 0.50 --併合時に転送される輸
 NDefines.NDiplomacy.BASE_TRUCE_PERIOD = 1 --停戦ナニソレオイシイノ？
 
 
+
+
