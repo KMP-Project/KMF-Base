@@ -146,3 +146,5 @@ NDefines.NPolitics.BASE_LEADER_TRAITS = 5 --リーダー特性の基本量(3)
 NDefines.NProduction.ANNEX_CONVOYS_RATIO = 0.50 --併合時に転送される輸送艦の数(0.15)
 
 NDefines.NDiplomacy.BASE_TRUCE_PERIOD = 1 --停戦ナニソレオイシイノ？
+
+
