@@ -1,0 +1,10 @@
+﻿l_english: 
+ RULE_OPTION_FOR_MULTI:0 "プレイヤーのみ"
+ RULE_ALLOW_GUARANTEES_FOR_MULTI_DESC:0 "マルチプレイヤーゲーム用の設定。プレイヤーのみ独立保障できます。なお、1939年9月1日以降のみです。"
+ RULE_ALLOW_GUARANTEES_FOR_MULTI_TOOLTIP:0 "§RAIは独立保障をすることができません。§!"
+ RULE_ALLOW_GUARANTEES_FOR_MULTI_TOOLTIP_2:0 "§R1939/9/1まで独立保障できません。§!"
+
+ RULE_OPTION_FOR_MULTI_WARGOALS:0 "マルチプレイヤー用"
+ RULE_ALLOW_WARGOALS_FOR_MULTI_WARGOALS_DESC:0 "マルチプレイヤーゲーム用の設定。基本的にすべての国家は自由に正当化ができますが、民主主義国家のみ、緊張度が100％のときのみ正当化ができるようになります。"
+
+ MULTI_WAR_RULE:0 "§R1939年9月1日までは対プレイヤー戦争はできません！§!"
