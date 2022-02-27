@@ -1,0 +1,28 @@
+spriteTypes = {
+	SpriteType = {
+		name = "GFX_tech_sonar_3_medium"
+		texturefile = "gfx/interface/technologies/tech_sonar_3.dds"
+	}	
+	SpriteType = {
+		name = "GFX_tech_sonar_4_medium"
+		texturefile = "gfx/interface/technologies/tech_sonar_4.dds"
+	}	
+	SpriteType = {
+		name = "GFX_tech_sonar_5_medium"
+		texturefile = "gfx/interface/technologies/tech_sonar_5.dds"
+	}	
+	SpriteType = {
+		name = "GFX_tech_sonar_6_medium"
+		texturefile = "gfx/interface/technologies/tech_sonar_6.dds"
+	}	
+	SpriteType = {
+		name = "GFX_tech_sonar_7_medium"
+		texturefile = "gfx/interface/technologies/tech_sonar_7.dds"
+	}	
+	SpriteType = {
+		name = "GFX_tech_sonar_8_medium"
+		texturefile = "gfx/interface/technologies/tech_sonar_8.dds"
+	}	
+	
+	
+}
