@@ -293,8 +293,8 @@ technologies = {
 	concentrated_industry = {
 
 		industrial_capacity_factory = 0.15
-		industrial_capacity_dockyard = 0.1
-		global_building_slots_factor = 0.30
+		industrial_capacity_dockyard = 0.15
+		global_building_slots_factor = 0.20
 		
 		path = {
 			leads_to_tech = concentrated_industry2 
@@ -364,8 +364,8 @@ technologies = {
 	concentrated_industry2 = {
 
 		industrial_capacity_factory = 0.15
-		industrial_capacity_dockyard = 0.1
-		global_building_slots_factor = 0.30
+		industrial_capacity_dockyard = 0.15
+		global_building_slots_factor = 0.20
 		
 		path = {
 			leads_to_tech = concentrated_industry3 
@@ -403,8 +403,8 @@ technologies = {
 	concentrated_industry3 = {
 
 		industrial_capacity_factory = 0.15
-		industrial_capacity_dockyard = 0.1
-		global_building_slots_factor = 0.30
+		industrial_capacity_dockyard = 0.15
+		global_building_slots_factor = 0.20
 		
 		path = {
 			leads_to_tech = concentrated_industry4 
@@ -441,8 +441,8 @@ technologies = {
 	concentrated_industry4 = {
 
 		industrial_capacity_factory = 0.15
-		industrial_capacity_dockyard = 0.1
-		global_building_slots_factor = 0.30
+		industrial_capacity_dockyard = 0.15
+		global_building_slots_factor = 0.20
 		
 		path = {
 			leads_to_tech = concentrated_industry5
@@ -479,8 +479,8 @@ technologies = {
 	concentrated_industry5 = {
 
 		industrial_capacity_factory = 0.15
-		industrial_capacity_dockyard = 0.1
-		global_building_slots_factor = 0.30
+		industrial_capacity_dockyard = 0.15
+		global_building_slots_factor = 0.20
 		
 		research_cost = 2
 		start_year = 1943
