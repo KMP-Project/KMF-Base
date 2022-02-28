@@ -1,0 +1,94 @@
+spriteTypes = {
+
+	###ideas
+
+	SpriteType = {
+		name = "GFX_idea_generic_thinking"
+		texturefile = "gfx/interface/ideas/generic_thinking.dds"
+	}
+
+	SpriteType = {
+		name = "GFX_idea_blockade_trade"
+		texturefile = "gfx/interface/ideas/blockade_trade.dds"
+	}
+
+	SpriteType = {
+		name = "GFX_idea_generic_export_of_trade_goods"
+		texturefile = "gfx/interface/ideas/generic_export_of_trade_goods.dds"
+	}
+
+	SpriteType = {
+		name = "GFX_idea_western_border_inviolable_1"
+		texturefile = "gfx/interface/ideas/western_border_inviolable_1.dds"
+	}
+
+	SpriteType = {
+		name = "GFX_idea_western_border_inviolable_2"
+		texturefile = "gfx/interface/ideas/western_border_inviolable_2.dds"
+	}
+
+	SpriteType = {
+		name = "GFX_idea_equal_command"
+		texturefile = "gfx/interface/ideas/equal_command.dds"
+	}
+
+	SpriteType = {
+		name = "GFX_idea_ferretti"
+		texturefile = "gfx/interface/ideas/idea_ferretti.dds"
+	}
+
+	SpriteType = {
+		name = "GFX_idea_fincantieri"
+		texturefile = "gfx/interface/ideas/idea_fincantieri.dds"
+	}
+
+	SpriteType = {
+		name = "GFX_idea_ITA_divided_nation_idea"
+		texturefile = "gfx/interface/ideas/ITA_divided_nation_idea.dds"
+	}
+
+	SpriteType = {
+		name = "GFX_idea_ITA_correcting_the_north_south_divide_idea"
+		texturefile = "gfx/interface/ideas/ITA_correcting_the_north_south_divide_idea.dds"
+	}
+
+	SpriteType = {
+		name = "GFX_idea_ITA_industrial_land_remodeling_plan_idea"
+		texturefile = "gfx/interface/ideas/ITA_industrial_land_remodeling_plan_idea.dds"
+	}
+
+	SpriteType = {
+		name = "GFX_idea_impero_italiano_idea"
+		texturefile = "gfx/interface/ideas/impero_italiano_idea.dds"
+	}
+
+	SpriteType = {
+		name = "GFX_idea_oto_melara"
+		texturefile = "gfx/interface/ideas/idea_oto_melara.dds"
+	}
+
+	SpriteType = {
+		name = "GFX_idea_ansaldo"
+		texturefile = "gfx/interface/ideas/idea_ansaldo.dds"
+	}
+
+	SpriteType = {
+		name = "GFX_idea_sov_guided_by_soviet"
+		texturefile = "gfx/interface/ideas/idea_sov_guided_by_soviet.dds"
+	}
+
+	SpriteType = {
+		name = "GFX_idea_GER_kaiserschlacht_idea"
+		texturefile = "gfx/interface/ideas/GER_kaiserschlacht_idea.dds"
+	}
+
+	SpriteType = {
+		name = "GFX_idea_FRA_unity_in_france"
+		texturefile = "gfx/interface/ideas/idea_FRA_unity_in_france.dds"
+	}
+
+	SpriteType = {
+		name = "GFX_idea_SWE_en_svensk_tiger"
+		texturefile = "gfx/interface/ideas/SWE_en_svensk_tiger.dds"
+	}
+}
