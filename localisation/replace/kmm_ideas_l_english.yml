@@ -1,0 +1,170 @@
+﻿l_english:
+
+ #General_ideas
+
+ taskforcesA:0 "特殊部隊の拡張"
+ taskforcesB:0 "特殊部隊への注力"
+ taskforcesC:0 "精鋭化した軍隊"
+ 
+ thinktank:0 "[thinktank_scripted_loc]"
+
+ NONE_thinktank:0 "国立シンクタンク"
+ GER_thinktank:0 "アーネンエルベ"
+ JAP_thinktank:0 "総力戦研究所"
+ ITA_thinktank:0 "国際政治学研究所"
+ USA_thinktank:0 "国家計画協会"
+ FRA_thinktank:0 "仏国際関係研究所"
+ SOV_thinktank:0 "世界経済国際関係研究所"
+ ENG_thinktank:0 "王立国際問題研究所"
+
+ generic_micro_countries_modifier:0 "マイクロ国家外交"
+ generic_micro_countries_modifier_2:0 "禁止された陣営参加"
+ generic_micro_countries_modifier_3:0 "大東亜共栄圏構想"
+
+ preventive_measures:0 "イソラリズム"
+
+ #Nordic_ideas
+
+ SWE_improved_en_svensk_tiger:0 "気高き虎"
+
+ #Germany_ideas
+
+ GER_promoted_capitalist_economy:0 "推進された資本主義経済"
+ GER_evolutionary_technologies_idea:0 "発展的技術"
+ GER_optimized_advanced_resource_mining:0 "最適化された先進的資源採掘"
+ blockade_trade:0 "封鎖的貿易"
+ GER_separate_account_for_germany:0 "ドイツへの特別勘定"
+ GER_labor_and_agriculture_committee_idea:0 "労農委員会"
+ GER_western_border_inviolable_1:0 "西方国境の再確認"
+ GER_western_border_inviolable_2:0 "踏み躙られた西方国境の再確認"
+ GER_western_border_inviolable_O_1:0 "西方国境の再確認"
+ GER_western_border_inviolable_O_2:0 "踏み躙られた西方国境の再確認"
+ GER_commitment_of_anschluss:0 "アンシュルツの確約"
+ GER_commitment_of_anschluss_tt:0 "これらの国民精神を§Yドイツ§!が持つことで、§Yハンガリー§!の二重帝国再興の夢を砕き、§G安全§!に§Yアンシュルツ§!をすることができる。"
+ GER_kaiserschlacht_idea:0 "カイザーシュラハトの教訓"
+ GER_operation_brest_litovsk:0 "ブレストリトフスク作戦"
+
+ #England_ideas
+ 
+ ENG_increasing_population_through_immigration:0 "移民による人口増加"
+ ENG_industrial_sites:0 "工業用地"
+
+ #China_ideas
+
+ CHI_die:0 "反抗心の欠如"
+
+ #Japan_ideas
+
+ JAP_bicycle_buff:0 "自転車の強化"
+
+ #Soviet_ideas
+ 
+ sovietarmy:0 "ソ連邦軍参謀指令"
+ operation_bagration:0 "バグラチオン作戦"
+ TSR_extension:0 "シベリア鉄道の拡張"
+ Focus_on_infrastructure:0 "インフラへの注力" 
+
+ #Ottoman_ideas
+
+ TUR_01_idea:0 "オスマン的民族統治"
+
+ #France_ideas
+ FRA_unity_in_france:0 "フランスの結束"
+
+ #Austro-Hungary_ideas
+
+ HUN_DEP_Sihai_idea:0 "帝国による支配"
+ HUN_DEP_SHosyo_idea:0 "各民族の保証"
+ HUN_DEP_SDoitu_idea:0 "ドイツ人による支配"
+ HUN_DEP_SAugusu_idea:0 "ドイツ人とハンガリー人による支配"
+ HUN_DEP_SZituryoku_idea:0 "実力主義による支配"
+ HUN_DEP_SRituryo_idea:0 "統治機構による統治"
+ HUN_DEP_SYokuatu_idea:0 "抑圧による統治"
+ HUN_DEP_SHoken_idea:0 "封建主義統治"
+ HUN_DEP_SZiyu_idea:0 "支配の削減"
+ HUN_DEP_SSiso_idea:0 "思想警察"
+ HUN_DEP_SDonau_idea:0 "ドナウ連邦"
+
+ HUN_neutrality_drift:0 "旧帝国による扇動"
+
+ HUN_gun_1_1:0 "ドイツ語の使用"
+ HUN_gun_1_2:0 "各民族の言語使用"
+ HUN_gun_1_3:0 "ドイツ語とハンガリー語を使用"
+
+ HUN_gun_2_1:0 "旧帝国の遺産"
+ HUN_gun_2_2:0 "平等な司令部"
+ HUN_gun_2_3:0 "参謀司令部"
+
+ HUN_gun_i_1:0 "火力支援"
+ HUN_gun_i_2:0 "対戦車戦"
+ HUN_gun_i_3:0 "支援中隊"
+ HUN_gun_i_4:0 "自転車化"
+
+ HUN_gun_m_1:0 "装甲師団への注力"
+ HUN_gun_m_2:0 "機械化歩兵への注力"
+ HUN_gun_m_3:0 "装甲化支援砲兵への注力"
+ HUN_gun_m_3_tt:0 "§Yすべての戦車派生型§!:\n　£production_cost 生産コスト: §G-10.00%§!\n　装甲: §G+10.00%§!\n　装甲化: §G+10.00%§!\n　攻撃: §G+10.00%§!\n　防御: §G+10.00%§!\n\nこの§Y設計企業§!が有効化されてる間は、研究された装備すべてに永続的に能力を与える。"
+ HUN_gun_m_4:0 "ロケット砲兵への注力"
+
+ HUN_gun_a_1:0 "航空優勢の重視"
+ HUN_gun_a_2:0 "地上支援の重視"
+ HUN_gun_a_3:0 "戦略爆撃の重視"
+
+ ITA_Anti_Austrian_Sentiment:0 "反二重帝国感情"
+
+ #Itary_ideas
+
+ ITA_colonial_management_idea:0 "植民地管理"
+ ITA_colonial_resources_idea:0 "植民地資源"
+ ITA_resource_economy:0 "資源国家"
+ ferretti:0 "フェレッティ"
+ fincantieri:0 "フィンカンティエリ"
+ crda:0 "カンティエーリ・リウニーティ・デッラドリアーティコ"
+ ITA_improvement_of_agricultural_production_1_idea:0 "農業生産の改善"
+ ITA_improvement_of_agricultural_production_2_idea:0 "農業生産の改善"
+ ITA_improvement_of_agricultural_production_3_idea:0 "農業生産の改善"
+ ITA_improvement_of_agricultural_production_4_idea:0 "農業生産の改善"
+ ITA_improvement_of_land_price_idea:0 "土地価格の改善"
+ ITA_gold_collect_idea:0 "祖国の為に金を"
+ ITA_state_owned_enterprise_idea:0 "国有企業化"
+ ITA_autarky_idea:0 "アウタルキア"
+ ITA_economic_liberalism_idea:0 "経済的自由主義"
+ ITA_autostrada_idea:0 "アウトストラーダの拡張"
+ ITA_battle_of_lira_idea:0 "リラの戦い"
+ ITA_strengthening_trade_union_crackdown_idea:0 "労働組合の弾圧"
+ ITA_divided_nation_idea:0 "分断された国家"
+ ITA_divided_nation_idea_desc:0 "イタリアの国内事情は世界どこを見渡しても見つからない異様な体系である。同一民族で統一された国家でここまで分断が激しい国家は存在しない。\n南北の格差はイタリア統一から長らく問題として残っており、解決する見込みはないが、政策によりある程度緩和することができる。"
+ ITA_correcting_the_north_south_divide_idea:0 "南北格差の是正"
+ ITA_battle_in_ethiopia_idea:0 "エチオピアでの戦い"
+ ITA_occupied_territory_development_idea:0 "占領地での開発"
+ ITA_occupied_territory_industry_idea:0 "占領地での開発"
+ ITA_industrial_land_remodeling_plan_idea_tt:0 "全州の建築スロット: §G+2§!"
+ ITA_european_economic_integration_idea:0 "ヨーロッパの経済統合"
+ impero_italiano_idea:0 "イタリア帝国"
+ ITA_trade_route_protection_idea:0 "帝国交易路の保護"
+ ITA_road_to_britannia_idea:0 "ブリタニアへの海路"
+ ITA_protection_of_trade_routes_in_the_red_sea_idea:0 "自由で開かれた紅海"
+ flotta_mediterranea:0 "地中海艦隊"
+ ITA_flotta_dalto_mare_idea:0 "外洋艦隊"
+ oto_melara:0 "オート・メラーラ"
+ ansaldo:0 "アンサルド"
+ ITA_influence_idea:0 "イタリアの影響"
+ ITA_CTV_idea:0 "スペイン内戦への義勇軍"
+ ITA_abcd:0 "スペイン内戦への介入未決定"
+ ITA_non_interference_with_the_spanish_civil_war:0 "不干渉委員会加盟国"
+ ITA_acceptance_of_civil_war_immigrants_idea:0 "内戦難民の受け入れ"
+ ITA_interaction_with_luftvaffe_idea:0 "ルフトヴァッフェとの交流"
+ ITA_great_depression_1_idea:0 "イタリア経済の破綻"
+ ITA_great_depression_2_idea:0 "イタリア経済の破綻"
+ ITA_great_depression_3_idea:0 "イタリア経済の破綻"
+ ITA_great_depression_4_idea:0 "イタリア経済の破綻"
+ ITA_great_depression_5_idea:0 "イタリア経済の破綻" 
+
+ ##
+
+ Victory_in_ukraine_idea:0 "ウクライナでの勝利"
+ Victory_in_belarus_idea:0 "ベラルーシでの勝利"
+ Victory_in_kavkaz_idea:0 "カフカースでの勝利"
+ Victory_in_middle_asia_idea:0 "グレート・ステップでの勝利"
+ Victory_in_scotland_idea:0 "スコットランドでの勝利"
+ Victory_in_ireland_idea:0 "アイルランドでの勝利"

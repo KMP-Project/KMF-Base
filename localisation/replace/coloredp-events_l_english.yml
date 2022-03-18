@@ -1,0 +1,15 @@
+﻿l_english:
+ #options
+ coloredp.1.t:0 "傀儡国色付けウィザードへようこそ！"
+ coloredp.1.d:0 "このモッドは貴方の傀儡国の色を変更します。\n別のモッドによる変更により、このモッドにより名前または色が変更された状態が永久に失われる可能性があります。\nゲームを開始する前に、AIが自身の傀儡状態の色を変更するかどうかを決定します。"
+ coloredp.1.a:0 "ぜひAI国にもこのモッドの効果を適用してやれ"
+ coloredp.1.b:0 "AI国ごときに傀儡国を色付けさせるな"
+ #decisions
+ colored_puppets:0 "傀儡国色付け"
+ colour_puppet:0 "[From.GetName]の色を自国の色と同化させる"
+ no_color:0 "色の消去"
+ coloredp_start:0"モッド機能開始"
+ color_changed:0 "色は変更された"
+ remove_color:0 "[From.GetName]から自国の色を取り除く"
+ #Country name fix
+ RAJ_subject:0 "$OVERLORDADJ$領インド"

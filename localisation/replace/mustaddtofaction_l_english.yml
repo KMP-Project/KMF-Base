@@ -1,0 +1,6 @@
+﻿l_english:
+ RTJFP_TITLE:0 "垣根を超えた陣営加盟"
+ RTJFP_ACTION_DESC:0 "我々は激動の20世紀を乗り切るために、イデオロギーの垣根を越えて陣営に加盟できる"
+ RTJFP_TOOLTIP:0 "§Y[This.GetNameWithFlag]§! §Rに加盟要請するために必要な条件を満たしていません！\n以下が必要\n -対象国が陣営盟主国である\n -対象国と戦争をしていない\n -我々が陣営に加盟していない\n -我々が陣営盟主国でない\n -我々は主権国である"
+ RTJFP_TOOLTIP_G:0 "§Y[This.GetNameWithFlag]§! に加盟要請するために必要な条件を満たしています！"
+ buttion:0 "AIはこれを必ず了承しません"
