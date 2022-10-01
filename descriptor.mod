@@ -1,4 +1,4 @@
-version="0.0.1"
+version="0.0.2"
 tags={
 	"Balance"
 	"Fixes"
@@ -6,5 +6,5 @@ tags={
 	"Utilities"
 }
 name="Korobka's Multiplayer Fix"
-supported_version="1.11.*"
+supported_version="1.12.*"
 remote_file_id="2469606972"
